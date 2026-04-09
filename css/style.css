@@ -49,11 +49,11 @@ header {
 
 .name {
   font-weight: bold;
-  color: #ace9dc;
+  color:#000000;
 }
 
 .username {
-  color: #a19f9f;
+  color: #808080;
   margin-left: 5px;
 }
 
